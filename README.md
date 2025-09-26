@@ -64,6 +64,9 @@ This project uses the Logistic Regression based predictor to deliver reliable he
 - **Matplotlib, Seaborn**
 - **Scikit-learn**
 
+## Final Deployed app on Streamlit.
+   App- https://ayushammishra-heart-disease-risk-predictor-frontend-lggnkl.streamlit.app/
+   
 ## ⚠️ Disclaimer
 
 This predictor is for educational and informational purposes only.  
